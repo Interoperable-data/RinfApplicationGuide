@@ -1,5 +1,12 @@
 # RinfApplicationGuide
-Repository for the browsable version of the technical parameters
+Repository for the browsable version of the technical parameters for the RING application guide.
+> [!NOTE] 
+>  A release official version will be available in the [release section](https://github.com/Interoperable-data/RinfApplicationGuide/releases)
+
+The current visualisation is hosted [here]([https://github.com/Interoperable-data/RinfApplicationGuide/issues](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html))
+
+> [!WARNING]  
+> The official link will be hosted in ERA domain.
 
 ## Issues
 
@@ -9,8 +16,6 @@ We welcome issues and enhancement requests that follow these guidelines:
 
 
 ## Contributing
-
-Please read and respect the [ERA principles](governance/era-principles.md) while contributing to this repository.
 
 For contributions we follow the "fork-and-pull" Git workflow:
 
