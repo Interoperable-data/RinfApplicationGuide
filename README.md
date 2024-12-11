@@ -3,7 +3,7 @@ Repository for the browsable version of the technical parameters for the RING ap
 > [!NOTE] 
 >  A release official version will be available in the [release section](https://github.com/Interoperable-data/RinfApplicationGuide/releases)
 
-The current visualisation is hosted [here]([https://github.com/Interoperable-data/RinfApplicationGuide/issues](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html))
+The current visualisation is hosted [here](https://linkedvocabs.org/data/era-ontology/3.1.0/appGuide/index-en.html)
 
 > [!WARNING]  
 > The official link will be hosted in ERA domain.
